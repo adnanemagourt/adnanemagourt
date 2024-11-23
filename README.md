@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanemagourt" alt="adnanemagourt" /></a> </p>
 
-- 🔭 I’m currently working on **my personal website**
-
 - 🌱 I’m currently **an undergrad at UM6P's College of Computing**
 
 - 📫 How to reach me **adnane.aitmagourt@um6p.ma**
