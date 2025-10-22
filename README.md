@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **an undergrad at UM6P's College of Computing**
 
-- 📫 How to reach me **adnane.aitmagourt@um6p.ma**
+- 📫 How to reach me **aitmagourtad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
